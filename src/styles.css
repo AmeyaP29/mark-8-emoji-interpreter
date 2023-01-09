@@ -1,0 +1,69 @@
+@import url("https://fonts.googleapis.com/css2?family=Fugaz+One&display=swap");
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 2rem;
+}
+
+h1 {
+  background-color: rgba(240, 235, 235, 0.733);
+  width: fit-content;
+  margin: 2rem auto;
+  padding: 1rem;
+  border-radius: 1rem;
+}
+
+body {
+  background-image: url("https://coreldrawdesign.com/resources/previews/preview-3d-emoji-wallpaper,-download-free-hd-images-from-coreldrawdesign.com-1636368526.jpg");
+}
+
+* {
+  font-family: "Fugaz One", cursive;
+}
+
+#meaningBox {
+  background-color: rgba(240, 235, 235, 0.733);
+  width: fit-content;
+  padding: 1rem;
+  border-radius: 1rem;
+  margin: 1rem auto;
+}
+
+#inputBox {
+  padding: 2rem;
+  width: 95%;
+  margin: auto;
+  font-size: xx-large;
+  background-color: rgba(240, 235, 235, 0.733);
+  border: none;
+  border-radius: 1rem;
+  text-align: center;
+}
+
+/* #inputBox::placeholder {
+  color: black;
+  text-align: center;
+} */
+
+#emojiList {
+  display: inline;
+  list-style-type: none;
+  margin: 2rem auto;
+}
+
+.emoticons {
+  display: inline;
+  font-size: xx-large;
+  text-align: center;
+  /* border: 2px red solid; */
+  margin: 2rem auto;
+  padding: 0.7rem;
+  cursor: pointer;
+}
+
+#listDiv {
+  background-color: rgba(240, 235, 235, 0.733);
+  padding: 1rem;
+  border-radius: 1rem;
+}
