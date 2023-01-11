@@ -18,7 +18,7 @@
 This project was made as part of level 0 of neogcamp
 The website is a simplified single page version of [Emojipedia](https://emojipedia.org). Users can click on any of the emojis on the [website](https://wro0hr.csb.app/) and find out what they mean. The aim is to help users understand what commonly used emojis mean in conversations, mitigating the confusion created by the overwhelming number of emoticons that are now available.
 
-# Live Demo!
+## Live Demo!
 
 
 https://user-images.githubusercontent.com/60094625/211455159-d80d39f5-23c5-4f10-acb5-fb6c18e7fcbb.mp4
